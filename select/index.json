@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "鏡花睡月",
+  "base_artist": "FantasticYouth",
+  "createdAt": "2026-02-19T13:41:07.898753Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鏡花睡月",
+      "artist": "Fantastic Youth",
+      "has_synced": false,
+      "path": "select/pl_01_鏡花睡月_Fantastic_Youth.txt"
+    }
+  ]
+}
